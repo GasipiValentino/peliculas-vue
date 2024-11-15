@@ -30,7 +30,7 @@ const irVerDetalles = (peliculaId) => {
 
 <style scoped>
 nav {
-  background-color: rgba(22, 20, 22, 0.879);
+  background-color: rgb(69, 145, 78);
 }
 
 nav img {

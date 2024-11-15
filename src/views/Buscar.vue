@@ -80,7 +80,7 @@
   border: none;
   border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  color: black;
+  color: rgb(255, 255, 255);
   margin-right: .8rem
 }
 

@@ -72,6 +72,7 @@ export default {
   max-width: 1200px;
   justify-content: center;
   margin: auto;
+  margin-bottom: 1rem;
 }
 
 .loader {
